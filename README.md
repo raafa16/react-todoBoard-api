@@ -347,19 +347,18 @@ If you use a custom server for your app in production and want to modify the tit
 
 ## Installing a Dependency
 
-The generated project includes React and ReactDOM as dependencies. It also includes a set of scripts used by Create React App as a development dependency. You may install other dependencies (for example, React Router) with `npm`:
+This app uses axios for making api requests. Install axios by the following command:
 
 ```sh
-npm install --save react-router
+npm install axios --save
 ```
 
-Alternatively you may use `yarn`:
+This app uses immutability-helper to update data without directly mutating it.
+Install immutability-helper using the following command:
 
 ```sh
-yarn add react-router
+npm install immutability-helper --save
 ```
-
-This works for any library, not just `react-router`.
 
 ## Importing a Component
 
