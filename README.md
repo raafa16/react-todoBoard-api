@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+<img src="https://user-images.githubusercontent.com/11180216/32373721-e2460914-c0c4-11e7-9304-fba167d3502a.png" width="90%"></img>
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
